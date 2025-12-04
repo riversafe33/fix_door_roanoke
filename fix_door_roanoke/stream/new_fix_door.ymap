@@ -2,16 +2,16 @@
 <CMapData>
 	<flags value="2"/>
 	<contentFlags value="65"/>
-	<streamingExtentsMin x="2439.034424" y="1284.693359" z="-271.352661"/>
-	<streamingExtentsMax x="3239.034424" y="2084.693359" z="528.647339"/>
-	<entitiesExtentsMin x="2789.034424" y="1634.693359" z="78.647339"/>
-	<entitiesExtentsMax x="2889.034424" y="1734.693359" z="178.647339"/>
+	<streamingExtentsMin x="2439.034424" y="1284.696899" z="-271.346619"/>
+	<streamingExtentsMax x="3239.034424" y="2084.696899" z="528.653381"/>
+	<entitiesExtentsMin x="2789.034424" y="1634.696899" z="78.653381"/>
+	<entitiesExtentsMax x="2889.034424" y="1734.696899" z="178.653381"/>
 	<entities>
 		<Item type="CEntityDef">
 			<archetypeName>p_door02x</archetypeName>
 			<flags value="1572897"/>
-			<position x="2839.034424" y="1684.693359" z="128.647339"/>
-			<rotation w="0.609790" x="0.000000" y="0.000000" z="0.792563"/>
+			<position x="2839.034424" y="1684.696899" z="128.653381"/>
+			<rotation w="0.608810" x="0.000016" y="-0.000001" z="0.793316"/>
 			<scaleXY value="1"/>
 			<scaleZ value="1"/>
 			<parentIndex value="-1"/>
